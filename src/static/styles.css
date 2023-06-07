@@ -1,0 +1,12 @@
+body {
+  margin-top: 100px;
+}
+
+#extension-root {
+  position: fixed;
+  /* highest possible */
+  z-index: 2147483638;
+  top: 0;
+  left: 0;
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+{
+  "appDescription": {
+    "message": "A browser action extension that redirects you to an archived version of a page not found.",
+    "description": "The description of this extension."
+  },
+  "bannerText": {
+    "message": "This page is not available,",
+    "description": "Inform the user that the page is not available."
+  },
+  "bannerTextDescription": {
+    "message": "want to check if it's archived?",
+    "description": "Inform the user about the option to load the page via Wayback Machine."
+  },
+  "bannerButton": {
+    "message": "Give me an archived version",
+    "description": "Text for the action button that loads an archived page whenever it is available."
+  }
+}
